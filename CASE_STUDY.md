@@ -41,3 +41,4 @@ The client is a **Shopify merchant or agency** that runs (or wants to run) **Goo
 ## Demo
 
 Product walkthrough: [YouTube — Kes Track functionality](https://www.youtube.com/watch?v=O-1SC7y6B04)
+App Link: [https://apps.shopify.com/kes-track]
